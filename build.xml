@@ -1,0 +1,11 @@
+<?xml version= "1.0"?>
+
+<project name="Care Health Insurance" default="info">
+
+<target name= "info">
+
+<echo> Hello World - Owner Mahi</echo>
+
+</target>
+
+</project>
